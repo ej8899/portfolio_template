@@ -1,6 +1,6 @@
 title: My Name
 logo: ./photo.webp
-#description: text below image
+description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
 #remote_theme: pages-themes/tactile@v0.2.0
