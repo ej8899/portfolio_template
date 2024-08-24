@@ -24,4 +24,4 @@
  - Hiking
 
 ### My Socials
-[![Youtube](https://img.shields.io/badge/youtube-FF0000style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@ErnieJohnsonCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernie-johnson/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@ErnieJohnsonCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernie-johnson/)
