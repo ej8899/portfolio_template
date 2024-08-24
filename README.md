@@ -17,8 +17,11 @@
  - Synology Server
 
 ### Tools I Use
-![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white "Wireshark!")
+![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 
 ### My Hobbies
  - Hiking
+
+### My Socials
+[![Youtube](https://img.shields.io/badge/youtube-FF0000style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@ErnieJohnsonCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernie-johnson/)
