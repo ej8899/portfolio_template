@@ -16,6 +16,9 @@
  - Windows 2019 AD Server
  - Synology Server
 
+### Tools I Use
+![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+
 
 ### My Hobbies
  - Hiking
