@@ -15,4 +15,7 @@
 ### My Homelab
  - Windows 2019 AD Server
  - Synology Server
- - 
+
+
+### My Hobbies
+ - Hiking
