@@ -114,7 +114,7 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 _"John is a quick learner with a strong passion for cybersecurity. He was always eager to help others and contributed valuable insights during group projects."_   
 - Jane Smith, Bootcamp Instructor  
 
-_"John consistently went above and beyond in our group projects. He has a keen eye for detail, especially when it comes to identifying potential vulnerabilities in systems. His collaborative spirit and willingness to share his knowledge made him a key contributor to our team's success."_  
+_"John consistently went above and beyond in our group projects. He has a keen eye for detail, especially when it comes to identifying potential vulnerabilities in systems. His collaborative spirit and willingness to share his knowledge made him a key contributor to our team's success."_   
 — Sarah Nguyen, Bootcamp Peer
 
 ---
