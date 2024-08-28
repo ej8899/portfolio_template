@@ -132,13 +132,6 @@ Feel free to reach out to me via [email](mailto:john.doe@example.com) or connect
 ---
 Below are just some 'buttons' ('shields') you can study how to use them and modify them.  Get more information at [https://shields.io](https://shields.io/badges)
 
-![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ErnieJohnsonCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernie-johnson/)
-
-![Static Badge](https://img.shields.io/badge/my%20badge-blue)
-
-# Badges Example
-
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
