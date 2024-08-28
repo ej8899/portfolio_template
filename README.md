@@ -147,4 +147,5 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 
 
 Looking for a page counter?
-<div align="right"><img src="https://komarev.com/ghpvc/?username=replace-with-your-github-username&style=flat-square&color=blue" alt=""/></div>
+![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&style=flat-square&color=blue)
+
