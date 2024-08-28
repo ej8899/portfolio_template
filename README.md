@@ -115,6 +115,31 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 
 ![Static Badge](https://img.shields.io/badge/my%20badge-blue)
 
+# Badges Example
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+## Certifications
+![CEH](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-RED?style=plastic&logo=hackthebox&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA2D2F?style=plastic&logo=comptia&logoColor=white)
+
+## Social Media
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+## Custom Badge
+![Custom Badge](https://img.shields.io/badge/Custom-Example-brightgreen?style=for-the-badge&logo=custom&logoColor=white)
+
+
 
 Looking for a page counter?
 <div align="right"><img src="https://komarev.com/ghpvc/?username=replace-with-your-github-username&style=flat-square&color=blue" alt=""/></div>
