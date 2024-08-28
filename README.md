@@ -141,7 +141,7 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 
 
 ## Custom Badge
-![Custom Badge](https://img.shields.io/badge/Custom-Example-brightgreen?style=for-the-badge&logo=custom&logoColor=white)
+![Custom Badge](https://img.shields.io/badge/Split-Color-brightgreen?style=for-the-badge&logo=custom&logoColor=white)
 ![Custom Badge](https://img.shields.io/badge/Solid%20Color-blue?style=for-the-badge&logo=custom&logoColor=white)
 
 
