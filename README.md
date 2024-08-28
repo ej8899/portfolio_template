@@ -104,7 +104,7 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 
 ---
 
-## Public Speaking/Workshops (Optional)
+## Public Speaking & Workshops
 - **Lighthouse Labs Bootcamp Final Presentation:** "Securing Premium House Lights from Cyber Attack"
 
 ---
