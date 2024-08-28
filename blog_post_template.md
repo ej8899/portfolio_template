@@ -23,11 +23,11 @@ If necessary, provide some background information or context about the topic. Th
 
 Introduce the first key point or subtopic of your post. Explain it in detail, using code snippets, examples, or diagrams if applicable.
 
-\```python
+```python
 # Example code snippet (if relevant)
 def example_function():
     print("This is an example.")
-\```
+```
 
 - **Bullet point:** Explanation or detail.
 - **Another point:** Additional information.
@@ -36,10 +36,10 @@ def example_function():
 
 Continue with another key point or subtopic. Provide further explanation, examples, or insights.
 
-\```bash
+```bash
 # Example shell command (if relevant)
 $ example_command --option
-\```
+```
 
 > _Tip:_ Include quotes, tips, or best practices to add value.
 
@@ -75,5 +75,3 @@ _Write a brief bio about yourself here. Include your background, expertise, and 
 Feel free to open an issue or submit a pull request if you have any comments, suggestions, or feedback. You can also reach out to me via [email](mailto:youremail@example.com) or [Twitter](https://twitter.com/yourhandle).
 
 ---
-
-*Thank you for reading!*
