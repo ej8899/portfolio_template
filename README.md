@@ -68,13 +68,13 @@ I am passionate about applying my knowledge to protect organizations from evolvi
 ### [Project 1: The Stolen Szechuan Sauce Forensics Analysis](https://github.com/johndoe/szechuansauce)
 A comprehensive toolkit designed to automate penetration testing tasks. It includes scripts and tools for reconnaissance, exploitation, and post-exploitation phases.
 
-### [Project 2: Simple Network Vulnerability Assessment](https://github.com/johndoe/network-vulnerability-assessment)
+### [Project 2: Risk Management Case Study](https://github.com/johndoe/risk-management)
 Conducted a basic network vulnerability assessment on a small lab environment. Identified potential security flaws and recommended mitigation strategies.
 
-### [Project 3: Web Application Security Basics](https://github.com/johndoe/web-security-basics)
+### [Project 3: Cat's Company Vulnerabilities](https://github.com/johndoe/cats-company-vulnerabilities)
 Explored common web application vulnerabilities, including SQL injection and XSS, and implemented basic protective measures.
 
-### [Project 4: Incident Response Simulation](https://github.com/johndoe/incident-response-simulation)
+### [Project 4: Investigation & Research Report](https://github.com/johndoe/investigation-and-research-report)
 Participated in a simulated incident response scenario, analyzing logs, identifying threats, and documenting the response process.
 
 ---
