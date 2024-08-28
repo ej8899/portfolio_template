@@ -87,7 +87,7 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 - Completed over 600 hours of hands-on training including on network security, incident response, and digital forensics.
 - Engaged in real-world simulations, learning to manage and secure networks, perform vulnerability assessments, and handle cyber incidents.
 - Developed an understanding of cryptographic processes, SOC operations, and the creation of security policies that meet GRC requirements.
-- 
+  
 ---
 
 ## Education
