@@ -113,7 +113,7 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 ![wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ErnieJohnsonCA) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernie-johnson/)
 
-![Static Badge](https://img.shields.io/badge/my%20badge?style=social)
+![Static Badge](https://img.shields.io/badge/my%20badge-blue)
 
 
 Looking for a page counter?
