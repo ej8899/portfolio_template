@@ -127,6 +127,8 @@ Feel free to reach out to me via [email](mailto:john.doe@example.com) or connect
 
 *Looking forward to contributing to the cybersecurity community!*
 
+![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&label=My%20Profile%20Views:&style=flat-square&color=blue)
+
 ---
 ---
 ---
@@ -159,6 +161,5 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 
 
 
-Looking for a page counter?  
-![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&style=flat-square&color=blue)
+
 
