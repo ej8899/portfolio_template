@@ -8,27 +8,52 @@
 
 ## Introduction
 
-I'm a recent graduate of a Cybersecurity Bootcamp with a passion for securing digital assets and learning about the latest security trends and technologies. Through hands-on projects and coursework, I have developed foundational skills in network security, penetration testing, and incident response. I’m eager to apply my knowledge and grow within the cybersecurity field.
+Hello! I'm John Doe, an enthusiastic and dedicated cybersecurity professional with a recent certification from Lighthouse Labs' rigorous Cybersecurity Bootcamp. My training encompassed a wide range of cybersecurity topics, from foundational concepts like the CIA triad and OSI model to more detailed practices in incident response, threat defense operations, and digital forensics.
+
+At Lighthouse Labs, I developed a strong command of the Linux operating system, mastering commonly used commands essential for managing and securing networks. My understanding of network security was further deepened through hands-on experience with network segmentation, adjusting existing networks to improve security, and analyzing how changes can impact confidentiality, integrity, and availability.
+
+I gained practical skills in risk and vulnerability assessments, learning to identify potential threats, evaluate risks, and implement appropriate mitigations. My training also covered the use of industry-standard tools such as SIEM systems for identifying Indicators of Compromise (IoCs), as well as employing the MITRE ATT&CK framework and Lockheed Martin Cyber Kill Chain model to defend against sophisticated cyber threats.
+
+In addition to technical skills, I am versed in SOC operations, incident handling, and the creation of security policies that align with GRC requirements. My bootcamp experience also introduced me to the roles of Blue, Red, and Purple teams, giving me a comprehensive understanding of both defensive and offensive security strategies.
+
+I am passionate about applying my knowledge to protect organizations from evolving cyber threats and am eager to contribute to a team where I can continue to grow and make a meaningful impact. I am particularly interested in roles that allow me to leverage my skills in vulnerability assessment, incident response, and threat defense operations.
+
 
 ---
 
 ## Skills
 
-### Penetration Testing
-- Basic understanding of tools like Nmap and Wireshark
-- Familiarity with Metasploit framework
-
-### Incident Response
-- Knowledge of the incident response lifecycle
-- Exposure to forensic analysis techniques
-
 ### Network Security
-- Understanding of firewalls, VPNs, and IDS/IPS systems
-- Basic knowledge of secure network architecture
+- Understanding of the OSI 7-layer model and TCP/IP concepts
+- Experience with network segmentation and managing single-site networks
+- Familiarity with secure design principles and network adjustments to enhance the CIA triad (Confidentiality, Integrity, Availability)
 
-### Programming & Scripting
-- Basic Python scripting
-- Command line tools (Bash, PowerShell)
+### Risk and Vulnerability Management
+- Proficient in conducting risk/vulnerability assessments using tools like NVD and CVSS
+- Ability to identify risks, vulnerabilities, exploits, and threats, and implement appropriate mitigations
+- Understanding of the threat landscape and how various threats affect different organizations
+
+### Cryptography
+- Knowledge of basic cryptographic processes, including encryption, decryption, and key exchange
+- Experience with signing certificates and understanding cryptographic impacts on security
+
+### Incident Response and SOC Operations
+- Familiarity with SOC operations, including using SIEM systems to identify Indicators of Compromise (IoCs)
+- Experience in incident response, following NIST RMF steps and creating IR playbooks for remediation and mitigations
+- Understanding of the role of Blue, Red, and Purple teams in cybersecurity operations
+
+### Digital Forensics and Malware Analysis
+- Knowledge of forensics, including investigating and analyzing digital evidence and registry forensics
+- Experience with malware analysis and understanding its role in threat defense
+
+### Python Scripting
+- Ability to write Python scripts to automate and enhance cybersecurity measures
+- Experience with analyzing logs, system, and network traffic through custom scripts
+
+### Security Policies and GRC
+- Understanding of GRC (Governance, Risk, and Compliance) requirements and recommendations
+- Experience in developing and adhering to security policies that align with organizational needs
+
 
 ---
 
@@ -56,13 +81,13 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 
 ## Experience
 
-### Cybersecurity Bootcamp Graduate - [XYZ Cybersecurity Academy](https://www.xyzacademy.com)
-*Jan 2024 - Jun 2024*
+### Cybersecurity Bootcamp Graduate - [Lighthouse Labs](https://www.lighthouselabs.ca)
+*June 2024 - September 2024*
 
-- Completed over 200 hours of hands-on labs and projects focused on cybersecurity fundamentals.
-- Collaborated with peers on group projects simulating real-world security scenarios.
-- Presented findings from security assessments and incident response simulations to instructors and classmates.
-
+- Completed over 600 hours of hands-on training including on network security, incident response, and digital forensics.
+- Engaged in real-world simulations, learning to manage and secure networks, perform vulnerability assessments, and handle cyber incidents.
+- Developed an understanding of cryptographic processes, SOC operations, and the creation of security policies that meet GRC requirements.
+- 
 ---
 
 ## Education
@@ -70,8 +95,6 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 ### Lighthouse Labs, Cybersecurity
 *2024*
 
-- Focus on Information Security and Network Defense.
-- Relevant coursework: Cryptography, Network Security, Secure Programming.
 
 ---
 
@@ -82,7 +105,7 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 ---
 
 ## Public Speaking/Workshops (Optional)
-- **XYZ Bootcamp Final Presentation:** "Securing Small Business Networks on a Budget"
+- **Lighthouse Labs Bootcamp Final Presentation:** "Securing Premium House Lights from Cyber Attack"
 
 ---
 
@@ -90,9 +113,6 @@ Participated in a simulated incident response scenario, analyzing logs, identify
 
 _"John is a quick learner with a strong passion for cybersecurity. He was always eager to help others and contributed valuable insights during group projects."_   
 - Jane Smith, Bootcamp Instructor  
-
-_"Working with John during the bootcamp was a great experience. He has a natural talent for breaking down complex problems and explaining them in a way that makes sense to everyone on the team. His enthusiasm for cybersecurity is contagious, and he was always the first to volunteer for the toughest challenges."_  
-— Alex Rodriguez, Bootcamp Classmate  
 
 _"John consistently went above and beyond in our group projects. He has a keen eye for detail, especially when it comes to identifying potential vulnerabilities in systems. His collaborative spirit and willingness to share his knowledge made him a key contributor to our team's success."_  
 — Sarah Nguyen, Bootcamp Peer
