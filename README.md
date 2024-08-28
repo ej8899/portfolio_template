@@ -8,69 +8,60 @@
 
 ## Introduction
 
-I'm a passionate Cybersecurity Analyst with over 5 years of experience in protecting organizations from cyber threats. I specialize in penetration testing, incident response, and network security. My goal is to continuously enhance my skills and help businesses safeguard their digital assets.
+I'm a recent graduate of a Cybersecurity Bootcamp with a passion for securing digital assets and learning about the latest security trends and technologies. Through hands-on projects and coursework, I have developed foundational skills in network security, penetration testing, and incident response. I’m eager to apply my knowledge and grow within the cybersecurity field.
 
 ---
 
 ## Skills
 
 ### Penetration Testing
-- Metasploit
-- Burp Suite
-- Nmap
+- Basic understanding of tools like Nmap and Wireshark
+- Familiarity with Metasploit framework
 
 ### Incident Response
-- SIEM (Security Information and Event Management)
-- Threat Hunting
-- Forensic Analysis
+- Knowledge of the incident response lifecycle
+- Exposure to forensic analysis techniques
 
 ### Network Security
-- Firewalls & IDS/IPS
-- VPNs & Secure Communication
-- Network Protocols
+- Understanding of firewalls, VPNs, and IDS/IPS systems
+- Basic knowledge of secure network architecture
 
 ### Programming & Scripting
-- Python
-- Bash
-- PowerShell
+- Basic Python scripting
+- Command line tools (Bash, PowerShell)
 
 ---
 
 ## Certifications
-- **Certified Information Systems Security Professional (CISSP)**
-- **Offensive Security Certified Professional (OSCP)**
-- **Certified Ethical Hacker (CEH)**
+- **CompTIA Security+** *(In Progress)*
+- **Lighthouse Labs Cybersecurity Diploma** *(2024)*
 
 ---
 
 ## Projects
 
-### [Project 1: Penetration Testing Toolkit](https://github.com/johndoe/pentest-toolkit)
+### [Project 1: The Stolen Szechuan Sauce Forensics Analysis](https://github.com/johndoe/szechuansauce)
 A comprehensive toolkit designed to automate penetration testing tasks. It includes scripts and tools for reconnaissance, exploitation, and post-exploitation phases.
 
-### [Project 2: Incident Response Playbook](https://github.com/johndoe/incident-response-playbook)
-A detailed incident response playbook for handling various types of cyber incidents. It includes step-by-step procedures for detection, analysis, and containment.
+### [Project 2: Simple Network Vulnerability Assessment](https://github.com/johndoe/network-vulnerability-assessment)
+Conducted a basic network vulnerability assessment on a small lab environment. Identified potential security flaws and recommended mitigation strategies.
 
-### [Project 3: Secure Network Architecture](https://github.com/johndoe/secure-network-architecture)
-Design and implementation of a secure network architecture for a mid-sized enterprise. The project involved configuring firewalls, VPNs, and IDS/IPS systems.
+### [Project 3: Web Application Security Basics](https://github.com/johndoe/web-security-basics)
+Explored common web application vulnerabilities, including SQL injection and XSS, and implemented basic protective measures.
+
+### [Project 4: Incident Response Simulation](https://github.com/johndoe/incident-response-simulation)
+Participated in a simulated incident response scenario, analyzing logs, identifying threats, and documenting the response process.
 
 ---
 
 ## Experience
 
-### Cybersecurity Analyst - [ABC Corp](https://www.abccorp.com)
-*Jan 2020 - Present*
+### Cybersecurity Bootcamp Graduate - [XYZ Cybersecurity Academy](https://www.xyzacademy.com)
+*Jan 2024 - Jun 2024*
 
-- Conducted regular vulnerability assessments and penetration tests.
-- Led the incident response team during multiple security breaches.
-- Developed and implemented security policies and procedures.
-
-### Security Consultant - [XYZ Solutions](https://www.xyzsolutions.com)
-*Jun 2017 - Dec 2019*
-
-- Provided security consulting services to clients across various industries.
-- Performed security audits and compliance checks.
-- Delivered training sessions on cybersecurity best practices.
+- Completed over 200 hours of hands-on labs and projects focused on cybersecurity fundamentals.
+- Collaborated with peers on group projects simulating real-world security scenarios.
+- Presented findings from security assessments and incident response simulations to instructors and classmates.
 
 ---
 
@@ -85,20 +76,23 @@ Design and implementation of a secure network architecture for a mid-sized enter
 ---
 
 ## Blog/Writing
-- [The Importance of Regular Security Audits](https://www.johndoe.com/blog/security-audits)
-- [Top 10 Penetration Testing Tools](https://www.johndoe.com/blog/pentest-tools)
+- [My Journey into Cybersecurity](https://www.johndoe.com/blog/my-journey)
+- [Top 5 Lessons from My Bootcamp Experience](https://www.johndoe.com/blog/bootcamp-lessons)
 
 ---
 
-## Public Speaking/Workshops
-- **DEFCON 29 Speaker:** "Advanced Techniques in Network Penetration Testing"
-- **BSides Conference Workshop Leader:** "Incident Response for SMEs"
+## Public Speaking/Workshops (Optional)
+- **XYZ Bootcamp Final Presentation:** "Securing Small Business Networks on a Budget"
 
 ---
 
 ## Testimonials
 
-_"John has an exceptional ability to identify vulnerabilities that others miss. His insights have been invaluable to our security posture."_ - Jane Smith, CTO at ABC Corp
+_"John is a quick learner with a strong passion for cybersecurity. He was always eager to help others and contributed valuable insights during group projects."_ - Jane Smith, Bootcamp Instructor
+_"Working with John during the bootcamp was a great experience. He has a natural talent for breaking down complex problems and explaining them in a way that makes sense to everyone on the team. His enthusiasm for cybersecurity is contagious, and he was always the first to volunteer for the toughest challenges."_  
+— Alex Rodriguez, Bootcamp Classmate
+_"John consistently went above and beyond in our group projects. He has a keen eye for detail, especially when it comes to identifying potential vulnerabilities in systems. His collaborative spirit and willingness to share his knowledge made him a key contributor to our team's success."_  
+— Sarah Nguyen, Bootcamp Peer
 
 ---
 
@@ -108,7 +102,7 @@ Feel free to reach out to me via [email](mailto:john.doe@example.com) or connect
 
 ---
 
-*Let's work together to secure the future!*
+*Looking forward to contributing to the cybersecurity community!*
 
 ---
 
