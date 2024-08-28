@@ -1,6 +1,6 @@
 # John Doe - Cybersecurity Analyst
 
-![John Doe](sample_photo.png) <!-- Optional: Add your professional photo here -->
+![John Doe](sample-photo.png) <!-- Optional: Add your professional photo here -->
 
 [Email](mailto:john.doe@example.com) | [LinkedIn](https://www.linkedin.com/in/johndoe/) | [Website](https://www.johndoe.com) 
 
