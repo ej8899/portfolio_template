@@ -134,7 +134,6 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA2D2F?style=plastic&logo=comptia&logoColor=white)
 
 ## Social Media
-## Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
@@ -143,9 +142,10 @@ Below are just some 'buttons' ('shields') you can study how to use them and modi
 
 ## Custom Badge
 ![Custom Badge](https://img.shields.io/badge/Custom-Example-brightgreen?style=for-the-badge&logo=custom&logoColor=white)
+![Custom Badge](https://img.shields.io/badge/Solid%20Color-blue?style=for-the-badge&logo=custom&logoColor=white)
 
 
 
-Looking for a page counter?
+Looking for a page counter?  
 ![Profile Views](https://komarev.com/ghpvc/?username=replace-with-your-github-username&style=flat-square&color=blue)
 
